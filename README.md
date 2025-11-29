@@ -136,7 +136,7 @@ int main() {
 
 ## OUTPUT
 ```
-. /exp6 .o
+. /sem.o
 ```
 
 ![Alt text](<Screenshot at 2025-11-03 17-05-52.png>)
